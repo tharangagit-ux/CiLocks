@@ -82,7 +82,7 @@
 
 ### Installation For Linux 
 
-    git clone https://github.com/tegal1337/CiLocks
+    https://github.com/tharangagit-ux/CiLocks.git
     
     cd CiLocks
     
